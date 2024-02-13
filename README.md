@@ -1,6 +1,6 @@
 Overview
 
-This project aims to identify the key features contributing to production issues in silicon wafer manufacturing using machine learning. By leveraging Random Forests and XGBoost algorithms, we analyze various production parameters to highlight the most significant factors affecting the yield and quality of silicon wafers. Understanding these feature importances can lead to more informed decisions to mitigate production problems.
+This project aims to identify the key features contributing to production issues in silicon wafer manufacturing using machine learning. By leveraging Random Forests and XGBoost algorithms, we analyze various production parameters to highlight the most significant factors affecting the yield and quality of silicon wafers. Understanding these feature importances can lead to more informed decisions to mitigate production problems. Additionally, SMOTE (Synthetic Minority Over-sampling Technique) is employed to ensure a balanced dataset for more reliable analysis.
 
 Features
 
